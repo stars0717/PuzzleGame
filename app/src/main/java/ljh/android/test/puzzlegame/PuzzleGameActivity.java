@@ -93,7 +93,7 @@ public class PuzzleGameActivity extends AppCompatActivity {
                 }
             }
         });
-
+        ///////askldfjlwenfjkls;jfklasdjfjkwehnvjklndfjk;fasd
         // grade버튼 클릭시
         gradeBtn.setOnClickListener(new View.OnClickListener() {
             @Override
